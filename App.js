@@ -7,7 +7,7 @@ import AddNewPaletteModal from './screens/AddNewPaletteModal.js';
 
 const MainStack = createStackNavigator();
 const RootStack = createStackNavigator();
-
+// Testing
 const MainStackScreen = () => {
   return (
     <MainStack.Navigator>
